@@ -1,0 +1,11 @@
+---
+title: "Movie"
+format: html
+editor: visual
+---
+
+## The last movie I watched in theaters was Elemental.
+
+```{r}
+
+```
