@@ -8,5 +8,7 @@ editor: visual
 
 My lunch today was awesome! I was able to take part in the staff appreciation lunch put on by campus dining. I ate at the worcestor dc. I don't know the name of the food I ate but I was able to eat food I wouldn't normally have the opportunity to try.
 
-```{r}hey}
+Here is a third change
+
+```{r}
 ```
